@@ -1,0 +1,19 @@
+{
+  "name": "voxelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <kamataryo@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@turf/distance": "^6.5.0",
+    "@types/geojson": "^7946.0.8",
+    "gl": "^4.9.2"
+  },
+  "devDependencies": {
+    "@mapbox/tilebelt": "^1.0.2",
+    "@types/mapbox__tilebelt": "^1.0.0",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
